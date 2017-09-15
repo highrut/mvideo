@@ -7,3 +7,4 @@
 * pandas >= 0.20.1
 * scikit-learn >= 0.18.1
 * ntlk >= 3.2.4
+* xgboost >= 0.6
